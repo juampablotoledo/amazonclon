@@ -1,0 +1,3 @@
+#Luego de instalar nodejs y estando en la carpeta de los proyectos de desarrollo
+npx create-react-app
+#
